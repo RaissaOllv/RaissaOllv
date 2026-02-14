@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Tudo bem? 👩‍💻</h1>
 
 <p align="center">
-  Seja bem-vindo(a) ao meu espaço no GitHub! Me chamo <strong>Raissa Oliveira</strong>, tenho 19 anos e sou de Cunha - SP. Sou apaixonada por tecnologia e por aprender algo novo todos os dias. Atualmente curso <strong>Gestão da Tecnologia da Informação</strong> na FATEC-SP e estou sempre em busca de aprimorar minhas habilidades práticas e teóricas nas áreas de desenvolvimento e tecnologia.
+  Seja bem-vindo(a) ao meu espaço no GitHub! Me chamo <strong>Raissa Oliveira</strong>, tenho 20 anos e sou de Cunha - SP. Sou apaixonada por tecnologia e por aprender algo novo todos os dias. Atualmente curso <strong>Gestão da Tecnologia da Informação</strong> na FATEC-SP e estou sempre em busca de aprimorar minhas habilidades práticas e teóricas nas áreas de desenvolvimento e tecnologia.
 </p>
 
 ---
